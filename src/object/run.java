@@ -11,6 +11,7 @@ import object.item.MagicPotion;
 
 public class run {
 	public static void main(String[] args) {
+		System.out.println("run start");
         ADHero ad = new ADHero("盖伦");
         ADHero ad2 = new ADHero("盖伦");
         APHero ap = new APHero("提莫");
